@@ -1,0 +1,52 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class="">
+Hi Samaneh,
+<div class=""><br class="">
+</div>
+<div class="">as promised, here is the link to the text file with the synonym sets:</div>
+<div class=""><br class="">
+</div>
+<div class=""><a href="https://drive.google.com/open?id=0B2ceunXPl1M6UTBfTHJxak9KS3c" class="">https://drive.google.com/open?id=0B2ceunXPl1M6UTBfTHJxak9KS3c</a></div>
+<div class=""><br class="">
+</div>
+<div class="">Please download it and write a program which:</div>
+<div class=""><br class="">
+</div>
+<div class="">- parses the file</div>
+<div class="">- reads the second the column to get a set of synonym words</div>
+<div class="">- for each word make a request to the DBpedia and find a category which has the word as label (sample SPARQL query:&nbsp;select distinct ?cat where {?s &lt;<a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" class="">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</a>&gt;
+ &lt;<a href="http://www.w3.org/2004/02/skos/core#Concept" class="">http://www.w3.org/2004/02/skos/core#Concept</a>&gt; . ?cat &lt;<a href="http://www.w3.org/2000/01/rdf-schema#label" class="">http://www.w3.org/2000/01/rdf-schema#label</a>&gt; ?label . FILTER(regex(str(?label),
+ &quot;Capitals in Europe&quot;)) } )</div>
+<div class="">- write your mappings to a txt file</div>
+<div class=""><br class="">
+</div>
+<div class="">Best regards</div>
+<div class=""><br class="">
+</div>
+<div class="">Nadine</div>
+<div class=""><br class="">
+</div>
+<div class=""><br class="">
+<div>
+<blockquote type="cite" class="">
+<div class="">Am 24.08.2017 um 10:59 schrieb Samaneh Nazari Dastjerdi &lt;<a href="mailto:samaneh.nazari-dastjerdi@tu-ilmenau.de" class="">samaneh.nazari-dastjerdi@tu-ilmenau.de</a>&gt;:</div>
+<br class="Apple-interchange-newline">
+<div class="">
+<div class="">Dear Dr. Steinmetz ,<br class="">
+My name is Samaneh Nazari Dastjerdi. I am a master student of RCSE. I would like to ask you about HiWi position. Is there any vacancy in your department?<br class="">
+My resume is attached.<br class="">
+<br class="">
+Thank you for your consideration. I look forward to hearing from you.<br class="">
+<br class="">
+Sincerely,<br class="">
+Samaneh Nazari Dastjerdi<span id="cid:D96A525E-399F-4227-AE1F-5D5A50061636@tu-ilmenau.de">&lt;HIWI2.pdf&gt;</span></div>
+</div>
+</blockquote>
+</div>
+<br class="">
+</div>
+</body>
+</html>
